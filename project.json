@@ -3,6 +3,7 @@
   "description": "SampleTransactionPro",
   "main": "Main.xaml",
   "dependencies": {
+    "BalaReva.Excel.Activities": "[2019.4.0]",
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.8.0-preview]",
     "UiPath.FTP.Activities": "[1.0.7053.27728]",
