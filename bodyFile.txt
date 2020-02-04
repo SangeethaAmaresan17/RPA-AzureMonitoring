@@ -8,32 +8,32 @@
 <tr style='padding: 5px;background-color: #f2f2f2;'>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Crisplantfsmdev</td>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Running</td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>02/04/2020 14:30:55</td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>02/04/2020 17:14:14</td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Fine</td>
 </tr>
 <tr style='padding: 5px;background-color: #f2f2f2;'>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>GosigerDev</td>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Running</td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>02/04/2020 17:14:33</td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Fine</td>
 </tr>
 <tr style='padding: 5px;background-color: #f2f2f2;'>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>IFSDT</td>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Running</td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>02/04/2020 17:14:45</td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Fine</td>
 </tr>
 <tr style='padding: 5px;background-color: #f2f2f2;'>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>IFSPROD</td>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Running</td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>02/04/2020 17:12:38</td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Fine</td>
 </tr>
 <tr style='padding: 5px;background-color: #f2f2f2;'>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>imaxdev</td>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Running</td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
-<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'></td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>02/04/2020 17:12:48</td>
+<td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>Fine</td>
 </tr>
 <tr style='padding: 5px;background-color: #f2f2f2;'>
 <td style='border: 1px solid black;border-collapse: collapse;font-family: , Arial, Helvetica, sans-serif;border-collapse: collapse;'>RACQ</td>
