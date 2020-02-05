@@ -1,0 +1,100 @@
+﻿<html><body style = 'background-color:#000000'>
+<p style = 'color: white'>Hi Team,</p><p style = 'color: white'>CPU Utilization have crossed the threshold limit of 35%. Please find the report on utilization details below</p>
+<table id="1">
+<style>
+body {background-color:#FFFFFF;}
+table {border:1px solid #FFFFFF; float:right}
+tr, td {background-color:#000000; border:1px solid #00000;}
+</style>
+<th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server Status Captured On</th>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: orange;text-align: Center'>05-Feb-2020</td>
+</tr>
+</table>
+
+<table id="2">
+<style>
+body {background-color:#FFFFFF;}
+table {border:1px solid #FFFFFF; float:left;  border-collapse: collapse;}
+tr, td {background-color:#000000; border:1px solid #00000;}
+</style>
+<th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server Status StartTime</th>
+<th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server Status EndTime</th>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;color: orange;text-align: Center'>11:51:58</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;color: orange;text-align: Center'>11:55:40</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src='C:\Users\Sangeetha.a\Desktop\CaptureLog.jpg' width='520' height='290' align: right>
+<br>
+<br>
+<table id="3">
+<style>
+body {background-color:#FFFFFF;}
+table {border:1px solid #FFFFFF; float:right}
+tr, td {background-color:#000000; border:1px solid #00000;}
+</style>
+<th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server_Name</th>
+<th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server_Status</th>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>Crisplantfsmdev</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: green;'>Running</td>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>GosigerDev</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: green;'>Running</td>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>IFSDT</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: green;'>Running</td>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>IFSPROD</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: green;'>Running</td>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>imaxdev</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: green;'>Running</td>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>RACQ</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: green;'>Running</td>
+</tr>
+</table>
+<table id="4">
+<style>
+body {background-color:#FFFFFF;}
+table {border:1px solid #FFFFFF; float:left}
+tr, td {background-color:#000000; border:1px solid #00000;}
+</style>
+<th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server_Name</th>
+<th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server_Status</th>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>CP-FSM-DT</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: yellow;'>Stopped (deallocated)</td>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>CP-FSM-PROD</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: yellow;'>Stopped (deallocated)</td>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>crisplantdev</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: yellow;'>Stopped (deallocated)</td>
+</tr>
+<tr style='padding: 5px;background-color: #000000;'>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>CrisplantDT</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: yellow;'>Stopped (deallocated)</td>
+</tr>
+</table>
+
+
+
+</body></html>
