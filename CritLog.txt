@@ -36,9 +36,12 @@ tr, td {background-color:#000000; border:1px solid #00000;}
 <br>
 <img src='C:\Users\Sangeetha.a\Desktop\CaptureLog.jpg' width='520' height='290' align: right>
 <p style = 'color: white'>Recommendations and Billing : disk space has to be increased from 40GB TO 55GB</p>
-<p style = 'color: white'>To proceed further, click on the options 
-<a href = "url">Approve</a> <a href = "url" >Reject</a></p>
-
+<p style = 'color: white'>To proceed further, click on the options
+<br> 
+<input type="button" onclick="window.location.href = 'https://www.w3docs.com';" value="Approve"/>
+<input type="button" onclick="window.location.href = 'https://www.w3docs.com';" value="Reject"/>
+<br>
+<br>
 <table id="3">
 <style>
 body {background-color:#FFFFFF;}
