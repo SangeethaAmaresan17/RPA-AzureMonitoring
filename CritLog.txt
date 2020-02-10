@@ -1,8 +1,5 @@
-﻿<html> 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">  
-<body style = 'background-color: #000000'>
-<p style = 'color: white'>Hi Team,</p>
-<p style = 'color: white'>95% SYSTEM REACH THE CRITICAL STORAGE LEVEL LIMITS, MIGHT STOP SERVING CUSTOMER REQUIREMENT IF ACTION IS NOT TAKEN</p>
+<html><body style = 'background-color:#000000'>
+<p style = 'color: white'>Hi Team,</p><p style = 'color: white'>CPU Utilization have crossed the threshold limit of 35%. Please find the report on utilization details below</p>
 <table id="1">
 <style>
 body {background-color:#FFFFFF;}
@@ -12,7 +9,7 @@ tr, td {background-color:#000000; border:1px solid #00000;}
 <th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server Status Captured On</th>
 </tr>
 <tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: orange;text-align: Center'>05-Feb-2020</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: orange;text-align: Center'>"+StartDate+"</td>
 </tr>
 </table>
 
@@ -26,62 +23,23 @@ tr, td {background-color:#000000; border:1px solid #00000;}
 <th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server Status EndTime</th>
 </tr>
 <tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;color: orange;text-align: Center'>11:51:58</td>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;color: orange;text-align: Center'>11:55:40</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;color: orange;text-align: Center'>"+StartTime+"</td>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;color: orange;text-align: Center'>"+EndTime+"</td>
 </tr>
 </table>
 <br>
 <br>
 <br>
 <br>
-<img src='C:\Users\Sangeetha.a\Desktop\CaptureLog.jpg' width='520' height='290' align: right>
-<p style = 'color: white'>Recommendations and Billing : disk space has to be increased from 40GB TO 55GB</p>
-<p style = 'color: white'>To proceed further, click on the options
-<br> 
-<input type="button" onclick="window.location.href = 'https://www.w3docs.com';" value="Approve"/>
-<input type="button" onclick="window.location.href = 'https://www.w3docs.com';" value="Reject"/>
+<br>
+<img src='C:\Users\Sangeetha.a\Documents\UiPath\TransactionalPro\new.png' width='520' height='290' align: right>
+<img src='C:\Users\Sangeetha.a\Documents\UiPath\TransactionalPro\new1.png' width='520' height='290' align: right>
 <br>
 <br>
 <table id="3">
 <style>
 body {background-color:#FFFFFF;}
-table {border:1px solid #FFFFFF;align=right;}
-tr, td {background-color:#000000; border:1px solid #00000;}
-</style>
-<tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>CPU Utilization</td>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>7.23%</td>
-</tr>
-<tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>Network In Total</td>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>7.23MB</td>
-</tr>
-<tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>Network Out Total</td>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>563.12MB</td>
-</tr>
-<tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>Disk Bytes_Read value</td>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>48.22MB</td>
-</tr>
-<tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>Disk Bytes_Write value</td>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>23.12MB</td>
-</tr>
-<tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>Disk Operation_Read value</td>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>0.05 /s</td>
-</tr>
-<tr style='padding: 5px;background-color: #000000;'>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>Disk Operation_Write value</td>
-<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: white;'>4.02 /s</td>
-</tr>
-</table>
-
-<table id="4">
-<style>
-body {background-color:#FFFFFF;}
-table {border:1px solid #FFFFFF; float:left}
+table {border:1px solid #FFFFFF; float:right}
 tr, td {background-color:#000000; border:1px solid #00000;}
 </style>
 <th style='border: 1px solid white;padding-top: 12px;padding-bottom: 12px;text-align: Center;background-color: black;color: white;'>Server_Name</th>
@@ -111,7 +69,7 @@ tr, td {background-color:#000000; border:1px solid #00000;}
 <td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: green;'>Running</td>
 </tr>
 </table>
-<table id="5">
+<table id="4">
 <style>
 body {background-color:#FFFFFF;}
 table {border:1px solid #FFFFFF; float:left}
@@ -141,3 +99,4 @@ tr, td {background-color:#000000; border:1px solid #00000;}
 
 
 </body></html>
+<td style='border: 1px solid white;border-collapse: collapse;font-family: , Calibri;border-collapse: collapse;color: orange;text-align: Center'>09-Feb-2020</td>

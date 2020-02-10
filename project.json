@@ -4,6 +4,7 @@
   "main": "AzureLogin.xaml",
   "dependencies": {
     "BalaReva.Excel.Activities": "[2019.4.0]",
+    "ECharts": "[2.2.3]",
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.8.0-preview]",
     "UiPath.FTP.Activities": "[1.0.7053.27728]",
